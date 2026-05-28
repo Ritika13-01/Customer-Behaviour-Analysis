@@ -92,6 +92,5 @@ Build predictive models (purchase prediction, churn analysis)
 Integrate real-time data pipelines
 Enhance dashboard interactivity
 
-**📎 Conclusion
-**
+**📎 Conclusion**
 This project demonstrates how raw customer data can be transformed into meaningful insights using EDA, SQL, and visualization tools. The dashboard enables stakeholders to quickly understand customer behavior and make data-driven decisions.
