@@ -39,7 +39,6 @@ Average purchase amount is around $59.76
 Average review rating is 3.75
 
 **🛢️ SQL Analysis**
-🛢️ SQL Analysis
 
 SQL was used extensively in this project to extract meaningful insights from the customer dataset and answer key business questions. By writing structured queries, we were able to aggregate, filter, and segment the data efficiently, supporting both exploratory analysis and dashboard development.
 
