@@ -1,5 +1,6 @@
 **📊 Customer Behaviour Analysis & Dashboard**
 **📌 Project Overview**
+![Uploading image.png…]()
 
 This project focuses on analyzing customer shopping behavior using Excel data, performing Exploratory Data Analysis (EDA), answering key business questions using SQL, and building an interactive dashboard to visualize insights.
 
