@@ -2,6 +2,7 @@
 **📌 Project Overview**
 
 This project focuses on analyzing customer shopping behavior using Excel data, performing Exploratory Data Analysis (EDA), answering key business questions using SQL, and building an interactive dashboard to visualize insights.
+<a><img width="1307" height="737" alt="image" src="https://github.com/user-attachments/assets/47be55ca-4c51-49cc-a301-15cb4c66049b" /></a>
 
 The goal is to uncover patterns in customer purchasing habits, segment behavior, and provide actionable insights for business decision-making.
 
